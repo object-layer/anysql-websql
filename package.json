@@ -1,6 +1,6 @@
 {
   "name": "anysql-websql",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Web SQL implementation of the AnySQL API",
   "author": "Manuel Vila <mvila@3base.com>",
   "license": "MIT",
