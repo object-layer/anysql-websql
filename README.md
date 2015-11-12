@@ -1,5 +1,11 @@
-# kinda-web-sql [![Build Status](https://travis-ci.org/kinda/kinda-web-sql.svg?branch=master)](https://travis-ci.org/kinda/kinda-web-sql)
+# anysql-websql [![Build Status](https://travis-ci.org/object-layer/anysql-websql.svg?branch=master)](https://travis-ci.org/object-layer/anysql-websql)
 
-```js
-// TODO: documentation!
-```
+Web SQL implementation of the AnySQL API.
+
+## Documentation
+
+See [AnySQL](https://www.npmjs.com/package/anysql).
+
+## License
+
+MIT
